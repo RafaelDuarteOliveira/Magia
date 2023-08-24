@@ -4,7 +4,7 @@
     
 body {
         font-family: 'Helvetica', sans-serif;
-    background-image: url(/images/produtosjpg.jpg);
+    background-image: url(images/produtosjpg.jpg);
 }
 .texto {
 color: rgb(255, 255, 255);
